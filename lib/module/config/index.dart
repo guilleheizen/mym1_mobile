@@ -1,0 +1,1 @@
+export 'provider/config_provider.dart';
